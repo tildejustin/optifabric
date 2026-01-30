@@ -14,3 +14,6 @@ accessible field net/minecraft/client/render/GameRenderer lightmapFlicker F
 
 # 1.6.4
 accessible method net/minecraft/block/Block m_8665163 (I)Lnet/minecraft/block/Block;
+accessible field net/minecraft/client/gui/widget/ButtonWidget f_9527567 I
+accessible field net/minecraft/client/gui/widget/ButtonWidget f_7845401 I
+
